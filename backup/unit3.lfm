@@ -1,0 +1,8 @@
+object Form3: TForm3
+  Left = 2559
+  Height = 240
+  Top = 698
+  Width = 658
+  Caption = 'Form3'
+  LCLVersion = '4.0.0.4'
+end
